@@ -30,51 +30,51 @@ body {
 /* header fijo */
 
 header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: black;
-  color: #9ad79b;
-  padding: 1rem;
-  border-bottom: 1px dashed #9ad79b; 
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: black;
+color: #9ad79b;
+padding: 1rem;
+border-bottom: 1px dashed #9ad79b; 
 }
 
 main {
-  padding-top: 5rem; 
+padding-top: 5rem; 
 }
 
 .content {
-  position: relative;
-  width: 100%;   
-  padding: 1rem;
-  margin-bottom: 2rem; 
-  border: 1px dashed #9ad79b;
+position: relative;
+width: 100%;   
+padding: 1rem;
+margin-bottom: 2rem; 
+border: 1px dashed #9ad79b;
 }
 
 .sidebar {
-  position: relative;
-  width: 300px;
-  margin-left: auto;
-  margin-right: 1rem;
-  padding: 2em; 
-  border: 1px dashed #9ad79b;
-  background-color: #000000;
+position: relative;
+width: 300px;
+margin-left: auto;
+margin-right: 1rem;
+padding: 2em; 
+border: 1px dashed #9ad79b;
+background-color: #000000;
 }
 
 .features {
-    border: 1px dashed #9ad79b;
-    text-align: center;
-    padding-bottom: 3em;
+border: 1px dashed #9ad79b;
+text-align: center;
+padding-bottom: 3em;
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background-color: #000000;
-  color: #9ad79b;
-  text-align: center;
-  border: 1px dashed #9ad79b;
+position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
+background-color: #000000;
+color: #9ad79b;
+text-align: center;
+border: 1px dashed #9ad79b;
 }
